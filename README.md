@@ -14,7 +14,7 @@
 ## 
 ### 📊 Análise dos Financiamentos Externos (COFIEX) e seus Impactos no PIB Estadual — Brasil (2010–2021)                
 
-repositório documenta um estudo completo sobre a relação entre Financiamentos Externos para Obras Públicas (COFIEX) e o crescimento do PIB estadual, com foco nos estados de São Paulo (SP) e Rio de Janeiro (RJ) entre 2010 e 2021.
+Este repositório documenta um estudo completo sobre a relação entre Financiamentos Externos para Obras Públicas (COFIEX) e o crescimento do PIB estadual, publicado no **II CONGRESSO INTERNACIONAL DE INOVAÇÃO E PESQUISA** da revista **ip congresso**, com foco nos estados de São Paulo (SP) e Rio de Janeiro (RJ) entre 2010 e 2021.
 
 O objetivo é identificar se os financiamentos internacionais influenciam o crescimento econômico e como eles são distribuídos entre regiões e setores.
 
